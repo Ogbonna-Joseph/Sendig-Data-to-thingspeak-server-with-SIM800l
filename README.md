@@ -5,7 +5,7 @@
 <p>Using the GSM Module device.</p>
 <h3>USED DEVICES/MODULE</h3>
 <ul>
-  <li>ESP32</li>
+  <li>ESP32 MCU</li>
   <li>SIM800L GSM Module</li>
   <li>DHT11 Sensor</li>
 </ul>
