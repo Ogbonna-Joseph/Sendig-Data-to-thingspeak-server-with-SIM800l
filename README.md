@@ -3,7 +3,7 @@
 <h3>PROJECT DESCRIPTIONS</h3>
 <p>In the project, data is being sent to the thingspeak server</p>
 <p>Using the GSM Module device.</p>
-<h3>USED DEVICES/MODULE</h3>
+<h3>USED DEVICES/MODULES</h3>
 <ul>
   <li>ESP32 MCU</li>
   <li>SIM800L GSM Module</li>
